@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Practicum {
     public static void main(String[] args) {
 
+        /// общее "ненужное" изменение в основной ветке после мёржа
+
+
         // вот это изменение только в масте
 
         Scanner scanner = new Scanner(System.in);
