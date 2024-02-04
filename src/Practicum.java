@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Practicum {
     public static void main(String[] args) {
 
+        // вот это изменение только в масте
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Сколько денег у вас осталось до зарплаты?");
         double moneyBeforeSalary = scanner.nextDouble();
