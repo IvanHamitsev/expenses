@@ -10,6 +10,7 @@ public class Practicum {
         int daysBeforeSalary = scanner.nextInt();
 
         //Изменения по ТИ-001
+        // вот это тоже
 
         Converter converter = new Converter(94.8,103.8,13.1);
         DinnerAdvisor dinnerAdvisor = new DinnerAdvisor();
