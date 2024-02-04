@@ -11,6 +11,7 @@ public class Practicum {
 
         //Изменения по ТИ-001
         // вот это тоже
+        // ещё в ветке
 
         Converter converter = new Converter(94.8,103.8,13.1);
         DinnerAdvisor dinnerAdvisor = new DinnerAdvisor();
